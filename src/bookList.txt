@@ -1,0 +1,60 @@
+SunZi's Art of War
+Sun Tzu
+Treatise
+4.90 Y 6 89.50 123456
+The Wealth of Nations
+Adam Smith
+Horror
+5.00 Y 4 68.30 555666
+Dracula
+Bram Stoker
+Horror
+4.50 Y 4 56.30 234567
+The Tell-Tale Heart
+Edgar Allan Poe
+Horror
+3.9 Y 3 45.6 251132
+The Great God Pan
+Arthur Machen
+Horror
+4.85 Y 3 64.98 192236
+A Beautiful Mind
+Sylvia Nasar
+Biography
+4.55 Y 4 30.00 177586
+Alexander Hamiltoz
+Ron Chernow
+Biography
+3.98 Y 1 120.30 363451
+Enrique's Journey
+Sonia Nazario
+Biography
+4.00 Y 5 95.30 971356
+Into the Wild
+Jon Krakauer
+Biography
+4.70 Y 3 88.65 583369
+American Born Chinese
+Gene Luen Yang
+Comics
+4.80 Y 5 45.20 264863
+Owly
+Andy Ruton
+Comics
+4.66 Y 3 33.60 156362
+As The Crow Flies
+Melanie Gillman
+Comics
+3.80 Y 2 44.68 695254
+Smile
+Raina Telgemier
+Comics
+4.00 Y 15 4.55 173654
+Dog Man
+Dav Pilkey
+Comics
+3.67 Y 7 29.88 556324
+Heart of Darkness
+Joseph Conrad
+Adventure
+3.75 Y 9 66.88 236957
